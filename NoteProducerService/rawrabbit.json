@@ -1,0 +1,7 @@
+﻿{
+  "Username": "guest",
+  "Password": "guest",
+  "VirtualHost": "/",
+  "Port": 5672,
+  "Hostnames": [ "127.0.0.1" ]
+}
